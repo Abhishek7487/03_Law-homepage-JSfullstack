@@ -14,4 +14,4 @@
   - Learned `object-fit` & `object-position` property in detail .✅
   
 ## Time taken to complete this project:-
-⏰- 1 & 1/2 hours
+⏰- 1hrs 12min
