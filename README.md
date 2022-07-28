@@ -1,4 +1,4 @@
-# Assignment No 1
+# Assignment No 3
 
 ![Hitesh](https://img.shields.io/badge/Hitesh%20Choudhary-Ineuron-yellowgreen) ![jsdeveloper](https://img.shields.io/badge/JS--Fullstack-Developer-green)
 
